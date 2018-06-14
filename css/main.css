@@ -1,0 +1,33 @@
+body{
+	background-color: 	#fff;
+	font-family: Arial, Helvetica, sans-serif;
+
+}
+.cont{
+	
+	margin: 30px;
+	width: 990px;
+	padding:60px;
+	
+}
+.cont table {
+	margin:30px;
+	width:880px;
+	padding: 90px;
+	border-collapse: collapse;
+	border:3px solid #00BFFF;
+	background-color:	#FFDAB9;
+	min-height:80px;
+}
+.cont table tr {
+   border-bottom:2px solid #00BFFF;
+}
+.cont table tr th{
+	text-align: left;
+	padding:10px;
+}
+.cont table tr:last-child{
+	background-color:blue;
+}
+}
+  
